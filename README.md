@@ -1,4 +1,6 @@
 # Virtual-Memory-Simulator-Operating-Systems-Project
+
+This project involved creating a paging simulator using Python and Tkinter that implemented page replacement algorithms including FIFO, Second Chance, and LRU. The simulator read data files specifying page traces and simulated the paging requirements of programs. The project assumed processes were run Round Robin, with a fixed rate of page generation and memory accesses proportional to job length. Process duration was given at the start or generated randomly.
  
  
 # User Interface:
